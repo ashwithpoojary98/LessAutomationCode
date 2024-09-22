@@ -2,9 +2,9 @@
 The goal is to make test creation visual, interactive, and intuitive, lowering technical barriers while equipping developers with powerful tools for customization and flexibility
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ashwithpoojary98/Lesscode)
-[![GitHub stars](https://img.shields.io/github/stars/ashwithpoojary98/javaflutterfinder.svg?style=flat)](https://github.com/ashwithpoojary98/Lesscode/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/ashwithpoojary98/Lesscode.svg?style=flat)](https://github.com/ashwithpoojary98/Lesscode/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat )](https://github.com/ashwithpoojary98/lesscode/pulls)
-[![GitHub forks](https://img.shields.io/github/forks/ashwithpoojary98/javaflutterfinder.svg?style=social&label=Fork)](https://github.com/ashwithpoojary98/Lesscode/network)
+[![GitHub forks](https://img.shields.io/github/forks/ashwithpoojary98/Lesscode.svg?style=social&label=Fork)](https://github.com/ashwithpoojary98/Lesscode/network)
 
 ### 1. Dashboard Overview
 
@@ -51,3 +51,69 @@ Debug Mode: A mode where users can step through each test step, pausing to inspe
 Commenting and Notes: Add comments to test cases or specific steps for other team members to see.
    
 Test Sharing: Allow users to share tests or test suites with others via direct links or exports (e.g., sharing tests with stakeholders or other team members).
+
+
+***
+
+### Contributing
+
+We welcome contributions from the community! Here’s how you can help:
+
+### How to Contribute
+
+1. **Fork the Repository:**
+    - Click the "Fork" button on the top right of the repository page to create a copy of the project under your GitHub account.
+
+2. **Clone Your Fork:**
+    - Clone your forked repository to your local machine:
+      ```bash
+      git clone https://github.com/ashwithpoojary98/Lesscode.git
+      ```
+    - Navigate to the project directory:
+      ```bash
+      cd Lesscode
+      ```
+
+3. **Create a Branch:**
+    - Create a new branch for your feature or bug fix:
+      ```bash
+      git checkout -b your-branch-name
+      ```
+
+4. **Make Changes:**
+    - Make your changes in your branch. Be sure to follow the coding style and guidelines of the project.
+
+5. **Commit Your Changes:**
+    - Stage your changes:
+      ```bash
+      git add .
+      ```
+    - Commit with a clear and descriptive message:
+      ```bash
+      git commit -m "Add a feature or fix a bug"
+      ```
+
+6. **Push to Your Fork:**
+    - Push your changes back to your fork:
+      ```bash
+      git push origin your-branch-name
+      ```
+
+7. **Create a Pull Request:**
+    - Go to the original repository where you want to contribute. You should see a prompt to create a pull request for your branch.
+    - Click "Compare & pull request."
+    - Provide a clear title and description for your pull request, explaining the changes you made and why they are necessary.
+
+### Guidelines
+
+- **Code Style:** Follow the coding conventions used in the project. If you’re unsure, check existing code for guidance.
+- **Testing:** If applicable, add tests for your new features or bug fixes. Ensure all tests pass before submitting your pull request.
+- **Documentation:** Update documentation if your changes introduce new features or alter existing ones.
+
+### Issues
+
+If you encounter any problems or have suggestions for improvements, please open an issue in the repository.
+
+### Thank You!
+
+Thank you for considering contributing to this project! Your help is greatly appreciated, and we look forward to your contributions.
