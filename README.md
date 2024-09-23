@@ -10,7 +10,9 @@ The goal is to make test creation visual, interactive, and intuitive, lowering t
 
 High-Level Summary: Show a clean overview with key metrics like the number of tests, recent test executions, and success/failure rates.
 
-Search and Filters: Allow users to quickly find tests by name, tag, status, or date of creation. Quick Actions: Buttons for “Create New Test,” “Run All Tests,” or “View Test Results” should be prominent.
+Search and Filters: Allow users to quickly find tests by name, tag, status, or date of creation.
+
+Quick Actions: Buttons for “Create New Test,” “Run All Tests,” or “View Test Results” should be prominent.
 
 ### 2.Test Creation Wizard
 Drag-and-Drop Editor: A central area where users can drag predefined blocks (e.g., "Input Text", "Click Button", "Validate Output") into a timeline or flow chart. Each block can represent a step in the test case.
