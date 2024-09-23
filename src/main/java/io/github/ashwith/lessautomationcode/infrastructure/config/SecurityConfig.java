@@ -1,4 +1,4 @@
-package io.github.ashwith.lesscode.infrastructure.config;
+package io.github.ashwith.lessautomationcode.infrastructure.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

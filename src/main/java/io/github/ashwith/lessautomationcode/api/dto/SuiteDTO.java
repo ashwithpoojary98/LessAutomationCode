@@ -1,4 +1,4 @@
-package io.github.ashwith.lesscode.api.dto;
+package io.github.ashwith.lessautomationcode.api.dto;
 
 
 import lombok.Data;

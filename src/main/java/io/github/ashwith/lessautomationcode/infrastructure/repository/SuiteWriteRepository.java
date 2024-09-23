@@ -1,6 +1,6 @@
-package io.github.ashwith.lesscode.infrastructure.repository;
+package io.github.ashwith.lessautomationcode.infrastructure.repository;
 
-import io.github.ashwith.lesscode.model.Suite;
+import io.github.ashwith.lessautomationcode.model.Suite;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

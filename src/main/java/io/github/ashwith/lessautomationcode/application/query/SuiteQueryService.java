@@ -1,7 +1,7 @@
-package io.github.ashwith.lesscode.application.query;
+package io.github.ashwith.lessautomationcode.application.query;
 
-import io.github.ashwith.lesscode.infrastructure.repository.SuiteReadRepository;
-import io.github.ashwith.lesscode.model.Suite;
+import io.github.ashwith.lessautomationcode.infrastructure.repository.SuiteReadRepository;
+import io.github.ashwith.lessautomationcode.model.Suite;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

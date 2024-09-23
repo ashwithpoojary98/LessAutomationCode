@@ -1,11 +1,11 @@
-package io.github.ashwith.lesscode.api.controller;
+package io.github.ashwith.lessautomationcode.api.controller;
 
 
-import io.github.ashwith.lesscode.api.common.ErrorResponse;
-import io.github.ashwith.lesscode.api.dto.SuiteDTO;
-import io.github.ashwith.lesscode.application.command.SuiteCommandService;
-import io.github.ashwith.lesscode.application.query.SuiteQueryService;
-import io.github.ashwith.lesscode.model.Suite;
+import io.github.ashwith.lessautomationcode.api.common.ErrorResponse;
+import io.github.ashwith.lessautomationcode.api.dto.SuiteDTO;
+import io.github.ashwith.lessautomationcode.application.command.SuiteCommandService;
+import io.github.ashwith.lessautomationcode.application.query.SuiteQueryService;
+import io.github.ashwith.lessautomationcode.model.Suite;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

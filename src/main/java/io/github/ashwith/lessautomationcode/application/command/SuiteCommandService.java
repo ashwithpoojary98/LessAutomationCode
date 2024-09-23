@@ -1,8 +1,8 @@
-package io.github.ashwith.lesscode.application.command;
+package io.github.ashwith.lessautomationcode.application.command;
 
-import io.github.ashwith.lesscode.api.dto.SuiteDTO;
-import io.github.ashwith.lesscode.infrastructure.repository.SuiteWriteRepository;
-import io.github.ashwith.lesscode.model.Suite;
+import io.github.ashwith.lessautomationcode.api.dto.SuiteDTO;
+import io.github.ashwith.lessautomationcode.infrastructure.repository.SuiteWriteRepository;
+import io.github.ashwith.lessautomationcode.model.Suite;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

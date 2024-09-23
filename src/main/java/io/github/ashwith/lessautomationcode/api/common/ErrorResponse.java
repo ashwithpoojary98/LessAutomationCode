@@ -1,4 +1,4 @@
-package io.github.ashwith.lesscode.api.common;
+package io.github.ashwith.lessautomationcode.api.common;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

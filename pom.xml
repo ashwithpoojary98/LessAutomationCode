@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.github.ashwith.lesscode</groupId>
-    <artifactId>lesscode</artifactId>
+    <artifactId>lessautomationcode</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>lesscode</name>
+    <name>LesAutomationCode</name>
     <description>Less code automation tool</description>
     <url/>
     <licenses>

@@ -1,4 +1,4 @@
-package io.github.ashwith.lesscode.model;
+package io.github.ashwith.lessautomationcode.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
