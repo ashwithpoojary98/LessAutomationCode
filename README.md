@@ -1,4 +1,4 @@
-# LessCode
+# LessAutomationCode
 The goal is to make test creation visual, interactive, and intuitive, lowering technical barriers while equipping developers with powerful tools for customization and flexibility
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ashwithpoojary98/Lesscode)
@@ -67,11 +67,11 @@ We welcome contributions from the community! Here’s how you can help:
 2. **Clone Your Fork:**
     - Clone your forked repository to your local machine:
       ```bash
-      git clone https://github.com/ashwithpoojary98/Lesscode.git
+      git clone https://github.com/ashwithpoojary98/LessAutomationCode.git
       ```
     - Navigate to the project directory:
       ```bash
-      cd Lesscode
+      cd LessAutomationCode
       ```
 
 3. **Create a Branch:**
